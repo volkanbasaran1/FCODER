@@ -27,25 +27,9 @@
             <li>Bu projeyi GitHub'dan klonlayın:<code>git clone https://github.com/volkanbasaran1/FCODER.git</code></li>
             <li>Proje klasörüne gidin:<code>cd FCODER</code></li>
             <li>Gereksinimleri yükleyin:</li>
-            <pre>
-                <code>npm install</code>
-            </pre>
-            <li>Projenizi çalıştırın:</li>
-            <pre>
-                <code>npm start</code>
-            </pre>
+            <li>Projenizi çalıştırın:index.html</li>
         </ol>
-        <h2>Kullanım</h2>
-        <p>Projenin nasıl kullanılacağı hakkında talimatlar ve örnekler burada eklenir. İsterseniz, projenin farklı bölümlerini ayrıntılı olarak açıklayabilirsiniz.</p>
-        <h2>Katkıda Bulunma</h2>
-        <p>KatContributing.md dosyasını okuyarak projeye katkıda bulunma ve değişiklikleri nasıl yapabileceğinizi öğrenin.</p>
-        <h2>Lisans</h2>
-        <p>Bu proje [Lisans Adı] ile lisanslanmıştır. Daha fazla bilgi için [LICENSE.md](LICENSE.md) dosyasına başvurun.</p>
-        <h2>İletişim</h2>
-        <p>E-posta: [E-posta Adresi]</p>
-        <p>Proje Linki: [Proje Linki]</p>
         <h2>Teşekkürler</h2>
-        <p>Projeyi geliştirmek için katkıda bulunanlara teşekkür edin (varsa).</p>
     </div>
 </body>
 </html>
