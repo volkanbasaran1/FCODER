@@ -1,58 +1,31 @@
 ![ekran](https://github.com/volkanbasaran1/FCODER/assets/76842256/73e5d614-c7bc-4d4c-955b-08c67e08df01)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proje Adı</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-    </style>
 </head>
 <body>
     <header>
-        <h1>Proje Adı</h1>
-        <p>Kısa proje açıklaması buraya gelebilir.</p>
+        <h1>HTML CSS Full Responsive Tur Sitesi</h1>
+        <p>Farklı ekran boyutlarına uyum sağlayabilen web tasarım</p>
     </header>
     <div class="container">
-        <h2>Başlangıç</h2>
-        <p>Bu talimatlar, projenizin yerel makinenizde nasıl çalıştırılacağını açıklar. Dağıtım için başka bir adım eklemek gerekirse, bu adıma burada yer verin.</p>
-        <h3>Gereksinimler</h3>
-        <p>Projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız olacak:</p>
+        <h2>Proje Hakkında</h2>
+        <p>Bilgisayarlar ve farklı ekran boyutlarına sahip mobil cihazların ekran boyutlarına uygun web projesidir.</p>
+        <h2>Kullanılan Teknolojiler</h3>
         <ul>
-            <li>Örnek bir gereksinim (örneğin: Node.js, Python 3.0)</li>
+            <li>HTML</li>
+             <li>CSS</li>
+             <li>JavaScript</li>
+            <li>Remix Icon</li>
+            <li>Box Icon</li>
         </ul>
-        <p>Gereksinimleri nasıl yükleyeceğiniz hakkında talimatlar burada verilebilir.</p>
-        <pre>
-            <code>npm install</code>
-        </pre>
-        <h3>Kurulum</h3>
-        <p>Aşağıdaki adımlar, projeyi yerel makinenizde çalıştırmak için adım adım talimatlar sağlar:</p>
+        <h2>Kurulum ve Kullanım</h2>
         <ol>
-            <li>Bu projeyi GitHub'dan klonlayın:</li>
-            <pre>
-                <code>git clone https://github.com/KullaniciAdiniz/ProjeAdi.git</code>
-            </pre>
-            <li>Proje klasörüne gidin:</li>
-            <pre>
-                <code>cd ProjeAdi</code>
-            </pre>
+            <li>Bu projeyi GitHub'dan klonlayın:<code>git clone https://github.com/volkanbasaran1/FCODER.git</code></li>
+            <li>Proje klasörüne gidin:<code>cd FCODER</code></li>
             <li>Gereksinimleri yükleyin:</li>
             <pre>
                 <code>npm install</code>
